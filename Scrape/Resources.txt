@@ -11,3 +11,10 @@ Page Links -
 
 Documentation for BS4-
     https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+
+Folder contains files -
+    AV_Scrape.py - basic functions for BeautifulSoup4
+    Earthquake14-17.csv - scraped data collected in this file
+    Example.html - html used in AV_Scrape.py
+    MultiScrape.py - Actual scraping script 
+    Resources.txt - Links and description for Scrape folder
