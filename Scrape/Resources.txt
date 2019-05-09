@@ -1,4 +1,4 @@
-Scraping multiple webpages similar in structure and share similar URL pattern.
+Scraping multiple webpages similar in structure and share similar URL pattern. Scraped using BeautifulSoup4, requests, and csv
 
 Main link to the site -
     http://www.imd.gov.in/pages/earthquake_prelim.php
