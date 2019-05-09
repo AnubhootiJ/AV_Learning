@@ -1,0 +1,11 @@
+Main link to the site -
+    http://www.imd.gov.in/pages/earthquake_prelim.php
+
+Page Links -
+    http://www.imd.gov.in/pages/lyear1.php?year=2014
+    http://www.imd.gov.in/pages/lyear1.php?year=2015
+    http://www.imd.gov.in/pages/lyear1.php?year=2016
+    http://www.imd.gov.in/pages/lyear1.php?year=2017
+
+Documentation for BS4-
+    https://www.crummy.com/software/BeautifulSoup/bs4/doc/
