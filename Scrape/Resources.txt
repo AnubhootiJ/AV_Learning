@@ -1,3 +1,5 @@
+Scraping multiple webpages similar in structure and share similar URL pattern.
+
 Main link to the site -
     http://www.imd.gov.in/pages/earthquake_prelim.php
 
